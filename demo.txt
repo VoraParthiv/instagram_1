@@ -1,0 +1,29 @@
+parthiv :- 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDhjNTU0OGMyNzljNWNkM2M0Y2M2YmUiLCJpYXQiOjE2ODY5MTg5OTN9.3Z8qU76fNaTtXhEJn38gJUj-baILIgi-MtaGqurQPA8
+
+brijesh :- 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDhjNTU1YmMyNzljNWNkM2M0Y2M2YzEiLCJpYXQiOjE2ODY5MTkzNDV9.Vm3BoWQ8FBvLcztP7BUoVrix0VQjcvFHQp6cnJvBTz8
+
+om :- 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDhjNTU3MGMyNzljNWNkM2M0Y2M2YzQiLCJpYXQiOjE2ODY5MTkzNjZ9.EuceIM84sR8m2mPrbLYgFsiUIMfiNP8lKHMBkiUl36s
+
+
+Admin :-
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZG1pbklkIjoiNjQ4YzU4NDAyODAyNzQ2ZWZiNzZiYjk5IiwiaWF0IjoxNjg2OTE5Mjk2fQ.wbO2In394nb-QzcfnyP219G6f9fOpoPTk0g51Kjg7Pg
+
+https://i.dummyjson.com/data/products/10/thumbnail.jpeg
+https://i.dummyjson.com/data/products/6/3.png
+https://i.dummyjson.com/data/products/2/2.jpg
+
+
+--testTimeout=30000
+
+export NODE_ENV=test => set
+unset NODE_ENV => delete
+
+response.data.data._id,
+
+return res.status(400).json({
+        status: 'Error',
+        message: error.details[0].message,
+      });
